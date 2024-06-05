@@ -1,0 +1,8 @@
+train: D:\\Data\\dataset3\\images\\train  # 118287 images
+val: D:\\Data\\dataset3\\images\\val  # 5000 images
+
+# number of classes
+nc: 1
+
+# class names
+names: [ 'pothole']
